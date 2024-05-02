@@ -1,0 +1,65 @@
+.cabeçalho-titulo{
+    text-align: center;
+     text-decoration: none;
+     color: white;
+ }
+ 
+ .cabeçalho-imagem-2{
+     width: 5%;
+     height: 5%;
+     
+ }
+ 
+ .todo-conteúdo-corpo{
+     background-color: #02227a;
+     
+ }
+ 
+ .corpo{
+     display: grid;
+     grid-template-columns:  30% 40% 30%;
+     align-items: center;
+     transform: rotate(720deg);
+     transition-duration: 5s;
+ 
+ }
+ 
+ .corpo-imagem-1{
+     width: 160px;
+     margin: 10%;
+     align-items: center;
+ }
+ 
+ .corpo-texto { 
+     margin: 10%;
+     align-items: center;
+     color: white;
+     font-size: 25px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ 
+ .corpo-imagem-2{
+    width: 150px; 
+    margin: 10%;   
+    align-items: center;
+ }
+ 
+ .rodapé{
+     background-color: #0391bd;
+     align-items: center;
+     display: grid;
+     grid-template-columns: 20% 60% 20%;
+     
+ }
+ 
+ .rodapé-texto{
+     color: white;
+     text-align: center;
+ }
+ 
+ .rodapé-imagem {
+ width: 30%;
+ height: 100%;
+ }
+ 
+ 
